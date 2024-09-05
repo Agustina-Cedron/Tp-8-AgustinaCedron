@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P8\\Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A90B478-8D10-4AB4-A1B2-88E6396EE2F5}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\sabri\\onedrive\\documentos\\lab y proy\\cedron agustina-proyecto\\trabajo p8\\ejercicio1\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A90B478-8D10-4AB4-A1B2-88E6396EE2F5}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A90B478-8D10-4AB4-A1B2-88E6396EE2F5}|Ejercicio1\\Ejercicio1.csproj|C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P8\\Ejercicio1\\ejercicio1\\modelo\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A90B478-8D10-4AB4-A1B2-88E6396EE2F5}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\modelo\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A90B478-8D10-4AB4-A1B2-88E6396EE2F5}|Ejercicio1\\Ejercicio1.csproj|C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P8\\Ejercicio1\\ejercicio1\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A90B478-8D10-4AB4-A1B2-88E6396EE2F5}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P8\\Ejercicio1\\Ejercicio1\\modelo\\Libro.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\modelo\\Libro.cs",
+              "ToolTip": "C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P8\\Ejercicio1\\Ejercicio1\\modelo\\Libro.cs",
+              "RelativeToolTip": "Ejercicio1\\modelo\\Libro.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:24:10.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P8\\Ejercicio1\\Ejercicio1\\modelo\\Usuario.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\modelo\\Usuario.cs",
+              "ToolTip": "C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P8\\Ejercicio1\\Ejercicio1\\modelo\\Usuario.cs",
+              "RelativeToolTip": "Ejercicio1\\modelo\\Usuario.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwCAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:57:31.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P8\\Ejercicio1\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\sabri\\OneDrive\\Documentos\\LAB Y PROY\\Cedron Agustina-PROYECTO\\Trabajo P8\\Ejercicio1\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Ejercicio1\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:45:53.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

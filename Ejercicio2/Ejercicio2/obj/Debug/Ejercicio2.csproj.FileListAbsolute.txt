@@ -1,0 +1,7 @@
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P8\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P8\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P8\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P8\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P8\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P8\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\sabri\OneDrive\Documentos\LAB Y PROY\Cedron Agustina-PROYECTO\Trabajo P8\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
